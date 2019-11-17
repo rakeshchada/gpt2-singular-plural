@@ -1,1 +1,2 @@
-# gpt2-singular-plural
+Code accompanying the blogpost Unsupervised NLU task learning via GPT-2
+This is just a modification of the code from Hugging Face's [transformer](https://github.com/huggingface/transformers/){:target="_blank"} repository.
