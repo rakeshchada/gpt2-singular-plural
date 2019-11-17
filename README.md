@@ -1,2 +1,3 @@
-Code accompanying the blogpost [Unsupervised NLU task learning via GPT-2](https://rakeshchada.github.io/Zero-Shot-Singular-Plural.html)
-This is just a modification of the code from Hugging Face's [transformer](https://github.com/huggingface/transformers/) repository.
+Code accompanying the blogpost [Unsupervised NLU task learning via GPT-2](https://rakeshchada.github.io/Zero-Shot-Singular-Plural.html).
+
+This is a modification of the code from Hugging Face's [transformer](https://github.com/huggingface/transformers/) repository.
